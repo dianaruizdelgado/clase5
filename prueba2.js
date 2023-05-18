@@ -1,1 +1,3 @@
-hoja de JavaScript js
+<script>
+    x="asd";
+</script>
